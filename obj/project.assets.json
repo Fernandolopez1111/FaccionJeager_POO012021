@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noble\\Desktop\\POO\\gitlab\\gitlab.csproj",
+      "projectUniqueName": "C:\\Users\\noble\\Desktop\\POO\\hello_world\\gitlab.csproj",
       "projectName": "gitlab",
-      "projectPath": "C:\\Users\\noble\\Desktop\\POO\\gitlab\\gitlab.csproj",
+      "projectPath": "C:\\Users\\noble\\Desktop\\POO\\hello_world\\gitlab.csproj",
       "packagesPath": "C:\\Users\\noble\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noble\\Desktop\\POO\\gitlab\\obj\\",
+      "outputPath": "C:\\Users\\noble\\Desktop\\POO\\hello_world\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noble\\AppData\\Roaming\\NuGet\\NuGet.Config"
