@@ -13,12 +13,12 @@ namespace gitlab
             Console.WriteLine("enter a value for b");
             b = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"adding {a} + {b} equals  {addNumbers(a,b)}");
+            Console.WriteLine($"adding {a} - {b} equals  {addNumbers(a,b)}");
 
         }
         public static int addNumbers(int a,int b)
         {
-            return a + b;
+            return a - b;
         }
     }
 }
